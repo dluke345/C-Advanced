@@ -1,0 +1,7 @@
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojResolveAssemblyReference.cache
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Users\David Luke\source\repos\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb
