@@ -1,0 +1,6 @@
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+c:\users\david luke\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
